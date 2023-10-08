@@ -5,7 +5,7 @@
 
 - 💬 Conocimientos en evolución: **HTML, CSS, JAVASCRIPT, SQL**
 
-- 📫 Puedes encontrarme en **www.linkedin.com/in/nico-hornos**
+- 📫 Puedes contactarme en **www.linkedin.com/in/nico-hornos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
