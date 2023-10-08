@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Nicolás Hornos</h1>
 <h3 align="center">Estudiante de Tecnicatura Superior en Programación</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, SQL, GIT, GITHUB**
+- 🌱 Estoy aprendiendo **JavaScript, HTML, CSS, SQL, GIT, GITHUB**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, SQL**
+- 💬 Conocimientos en evolución: **HTML, CSS, JAVASCRIPT, SQL**
 
-- 📫 How to reach me **www.linkedin.com/in/nico-hornos**
+- 📫 Puedes encontrarme en **www.linkedin.com/in/nico-hornos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
