@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Soy Nicolás Hornos</h1>
 <h3 align="center">Estudiante de Tecnicatura Superior en Programación</h3>
+<img href="![71359-saturno (1)](https://github.com/nico-hornos/nico-hornos/assets/104862764/f0c33665-8cca-4b3c-91f3-e21114c81be8)">
 
 - 🌱 Estoy aprendiendo **JavaScript, HTML, CSS, SQL, GIT, GITHUB**
 
